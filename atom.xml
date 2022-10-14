@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-10-11T11:04:37.539Z</updated>
+  <updated>2022-10-12T04:03:56.667Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>计算机网络</title>
+    <link href="http://example.com/2022/10/12/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/"/>
+    <id>http://example.com/2022/10/12/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</id>
+    <published>2022-10-12T04:00:32.000Z</published>
+    <updated>2022-10-12T04:03:56.667Z</updated>
+    
+    <content type="html"><![CDATA[<p>b编程</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;b编程&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>world</title>
